@@ -1,6 +1,6 @@
 {
-    "name": "bican/roles",
-    "description": "Powerful package for handling roles and permissions in Laravel 5.",
+    "name": "dlouvard/roles",
+    "description": "Fork from Bican/roles to Laravel 5.3",
     "keywords": ["roles", "permissions", "acl", "auth", "laravel", "illuminate"],
     "license": "MIT",
     "authors": [
@@ -11,11 +11,11 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "illuminate/support": "~5.0"
+        "illuminate/support": "~5.3"
     },
     "autoload": {
         "psr-0": {
-            "Bican\\Roles": "src/"
+            "Dlouvard\\Roles": "src/"
         }
     }
 }
