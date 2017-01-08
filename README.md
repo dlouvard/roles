@@ -1,6 +1,5 @@
-# Roles And Permissions For Laravel 5
-
-Powerful package for handling roles and permissions in Laravel 5 (5.1 and also 5.0).
+# Roles And Permissions For Laravel 5.3
+Powerful package for handling roles and permissions in Laravel 5.3.
 
 - [Installation](#installation)
     - [Composer](#composer)
@@ -40,8 +39,6 @@ Pull this package in through Composer (file `composer.json`).
     }
 }
 ```
-
-> If you are still using Laravel 5.0, you must pull in version `1.7.*`.
 
 Run this command inside your terminal.
 
